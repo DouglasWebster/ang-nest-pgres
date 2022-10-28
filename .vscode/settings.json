@@ -1,6 +1,9 @@
 {
     "cSpell.words": [
+        "nestjs",
+        "nrwl",
         "pgres",
-        "Todos"
+        "Todos",
+        "typeorm"
     ]
 }
